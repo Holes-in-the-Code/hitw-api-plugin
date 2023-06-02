@@ -1,0 +1,6 @@
+main: com.hitc.hitwapiplugin.main.Main
+name: HitW-API
+version: 1.0
+api-version: 1.13
+author: Holes in the Code
+description: Hole in the Wall API plugin
